@@ -1,6 +1,5 @@
 # 🔗DEMO
-
- - [Login and SignUp ](https://demo-ud.netlify.app/)
- - [Search Results](https://demo-ud.netlify.app/search-results.html)
- - [Post Iron-Man](https://demo-ud.netlify.app/iron-man-2008.html/)
+ - [Search Results](movies-scripts.netlify.app/search-results/)
+ - [Post Iron-Man](movies-scripts.netlify.app/iron-man-2008/)
  - [404](https://movies-scripts.netlify.app/404/)
+ - [Login and SignUp ](movies-scripts.netlify.app/indexs/)
